@@ -1,6 +1,10 @@
 # Sobre o projeto
+<p>
 Criado durante a NLW-Together, ou também a sexta NLW, esse projeto é um site voltado a auxiliar streammers, educadores e todo tipo de influencer que precisa lidar com muitas perguntas feitas pelo seu público de uma só vez.
 Ele permite que o criador de conteúdo gerencie salas nas quais seus expectatores podem fazer e votar em perguntas, enquanto ele pode dar destaque àquelas que ele preferir, bem como marcar como respondidas ou as excluir. 
+
+![Letmeask](https://github.com/alphaHunterPrimal/NLW-Together-/blob/main/src/assets/images/letmeask.png)
+
 ## Tecnologias 
 - [React](https://reactjs.org)
 - [Firebase](https://firebase.google.com/)
